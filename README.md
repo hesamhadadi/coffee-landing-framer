@@ -6,8 +6,8 @@ A stunning luxury café landing page built with the **latest** Next.js 15, React
 
 | Tool | Version | Why |
 |------|---------|-----|
-| **Next.js** | 15.2 | App Router, Turbopack dev server, `next/font` |
-| **React** | 19.0 | Latest stable, concurrent features |
+| **Next.js** | 15.3 | App Router, Turbopack dev server, `next/font` |
+| **React** | 19.1 | Latest stable, concurrent features |
 | **Framer Motion** | 12.5 | `useScroll`, `useTransform`, `AnimatePresence` |
 | **Tailwind CSS** | v4 | New `@theme` directive, no config file needed for design tokens |
 | **TypeScript** | 5.7 | Full type safety |
