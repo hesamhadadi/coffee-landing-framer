@@ -73,6 +73,4 @@ obsidian-v2/
 - **Colors:** All defined as `@theme` variables in `globals.css` (Tailwind v4)
 - **Motion:** Framer Motion 12 — `useScroll`, `useTransform`, `useSpring`, `AnimatePresence`
 - **Architecture:** Server Components by default, `"use client"` only where needed
-## Contributors
-## Contributors
-## Contributors
+
