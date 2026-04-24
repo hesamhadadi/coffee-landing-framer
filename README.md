@@ -74,3 +74,4 @@ obsidian-v2/
 - **Motion:** Framer Motion 12 — `useScroll`, `useTransform`, `useSpring`, `AnimatePresence`
 - **Architecture:** Server Components by default, `"use client"` only where needed
 
+
